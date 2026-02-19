@@ -1,4 +1,4 @@
-# Classificação do Dataset Iris com Redes Neurais Clássicas 
+# Redes Neurais Artificiais Clássicas
 
 Este projeto foi desenvolvido para a disciplina de **Inteligência Computacional**. O objetivo é comparar o desempenho e as fronteiras de decisão de três modelos fundamentais de Redes Neurais Artificiais aplicados ao conjunto de dados Iris.
 
